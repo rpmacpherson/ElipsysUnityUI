@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: b7c49b6f30e0a7c478bcad258d5f1fc1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7796728634953866197
+    second: Add profile Picture@2x_0
+  - first:
+      213: -3967027601538214526
+    second: Add profile Picture@2x_1
+  - first:
+      213: -7408648115334112213
+    second: Add profile Picture@2x_2
+  - first:
+      213: -2918666815624943987
+    second: Add profile Picture@2x_3
+  - first:
+      213: 5349865652791793413
+    second: Add profile Picture@2x_4
+  - first:
+      213: 1816905113180667937
+    second: Add profile Picture@2x_5
+  - first:
+      213: -7837092547251296451
+    second: Add profile Picture@2x_6
+  - first:
+      213: -2605907616498745338
+    second: Add profile Picture@2x_7
+  - first:
+      213: -7270834840937014811
+    second: Add profile Picture@2x_8
+  - first:
+      213: -1114064404380905393
+    second: Add profile Picture@2x_9
+  - first:
+      213: -5959602353484106019
+    second: Add profile Picture@2x_10
+  - first:
+      213: -1678159618719550675
+    second: Add profile Picture@2x_11
+  - first:
+      213: -4345403435452034067
+    second: Add profile Picture@2x_12
+  - first:
+      213: -5885068148618070470
+    second: Add profile Picture@2x_13
+  - first:
+      213: 5823796140842253216
+    second: Add profile Picture@2x_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Add profile Picture@2x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2465778d947cc390800000000000000
+      internalID: -7796728634953866197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Add profile Picture@2x_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28515242a6942f8c0800000000000000
+      internalID: -3967027601538214526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Add profile Picture@2x_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c94a3bac13f2990800000000000000
+      internalID: -7408648115334112213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Add profile Picture@2x_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 3
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8664f4beffce77d0800000000000000
+      internalID: -2918666815624943987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Add profile Picture@2x_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507d7b6677a8e3a40800000000000000
+      internalID: 5349865652791793413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Add profile Picture@2x_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12089b5f291f63910800000000000000
+      internalID: 1816905113180667937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Add profile Picture@2x_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37a939d9dd0d3390800000000000000
+      internalID: -7837092547251296451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Add profile Picture@2x_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 3
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6008b1954d4f5dbd0800000000000000
+      internalID: -2605907616498745338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Add profile Picture@2x_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e95a651c3ec81b90800000000000000
+      internalID: -7270834840937014811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Add profile Picture@2x_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4018f7a35c0a80f0800000000000000
+      internalID: -1114064404380905393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Add profile Picture@2x_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd67ffd1c3d3b4da0800000000000000
+      internalID: -5959602353484106019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Add profile Picture@2x_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 3
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23f0d1d7baf5b8e0800000000000000
+      internalID: -1678159618719550675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Add profile Picture@2x_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de39e10399602b3c0800000000000000
+      internalID: -4345403435452034067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Add profile Picture@2x_13
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 3
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3677a203b9045ea0800000000000000
+      internalID: -5885068148618070470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Add profile Picture@2x_14
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 3
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab713bfbb742d050800000000000000
+      internalID: 5823796140842253216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Add profile Picture@2x_0: -7796728634953866197
+      Add profile Picture@2x_1: -3967027601538214526
+      Add profile Picture@2x_10: -5959602353484106019
+      Add profile Picture@2x_11: -1678159618719550675
+      Add profile Picture@2x_12: -4345403435452034067
+      Add profile Picture@2x_13: -5885068148618070470
+      Add profile Picture@2x_14: 5823796140842253216
+      Add profile Picture@2x_2: -7408648115334112213
+      Add profile Picture@2x_3: -2918666815624943987
+      Add profile Picture@2x_4: 5349865652791793413
+      Add profile Picture@2x_5: 1816905113180667937
+      Add profile Picture@2x_6: -7837092547251296451
+      Add profile Picture@2x_7: -2605907616498745338
+      Add profile Picture@2x_8: -7270834840937014811
+      Add profile Picture@2x_9: -1114064404380905393
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

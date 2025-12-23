@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 0290c4143d47c3144a2af6f218252a76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5278418008304469791
+    second: Free throw stats@2x_0
+  - first:
+      213: -5863373369933705616
+    second: Free throw stats@2x_1
+  - first:
+      213: 3991746645794280377
+    second: Free throw stats@2x_2
+  - first:
+      213: 6692672944499752688
+    second: Free throw stats@2x_3
+  - first:
+      213: 6046444450986696671
+    second: Free throw stats@2x_4
+  - first:
+      213: 5897989672378703927
+    second: Free throw stats@2x_5
+  - first:
+      213: 617492495899325321
+    second: Free throw stats@2x_6
+  - first:
+      213: 248632229745284843
+    second: Free throw stats@2x_7
+  - first:
+      213: -1114527754028248935
+    second: Free throw stats@2x_8
+  - first:
+      213: 8594420330520604532
+    second: Free throw stats@2x_9
+  - first:
+      213: 6204226010612337136
+    second: Free throw stats@2x_10
+  - first:
+      213: -9030019310229539981
+    second: Free throw stats@2x_11
+  - first:
+      213: -6253859635246879874
+    second: Free throw stats@2x_12
+  - first:
+      213: -4919344340404011898
+    second: Free throw stats@2x_13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free throw stats@2x_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8bcf6a9ca4fb6b0800000000000000
+      internalID: -5278418008304469791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free throw stats@2x_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 7
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ecd9b4cfc11aea0800000000000000
+      internalID: -5863373369933705616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free throw stats@2x_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 7
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3dce7dc68856730800000000000000
+      internalID: 3991746645794280377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free throw stats@2x_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 7
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe76ce659621ec50800000000000000
+      internalID: 6692672944499752688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free throw stats@2x_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 7
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf9137513949e350800000000000000
+      internalID: 6046444450986696671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free throw stats@2x_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 7
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7302e0fab5ed9d150800000000000000
+      internalID: 5897989672378703927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free throw stats@2x_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 7
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9837c854726c19800800000000000000
+      internalID: 617492495899325321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free throw stats@2x_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 6
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be65ea512b1537300800000000000000
+      internalID: 248632229745284843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free throw stats@2x_8
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 7
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99015d8a9e66880f0800000000000000
+      internalID: -1114527754028248935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free throw stats@2x_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 6
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f631361c3854770800000000000000
+      internalID: 8594420330520604532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free throw stats@2x_10
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 7
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f989cc6fa6d91650800000000000000
+      internalID: 6204226010612337136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free throw stats@2x_11
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 7
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373b9dac74deea280800000000000000
+      internalID: -9030019310229539981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free throw stats@2x_12
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 7
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ba4fdcbc3d539a0800000000000000
+      internalID: -6253859635246879874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free throw stats@2x_13
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 6
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cf36ed26afabbb0800000000000000
+      internalID: -4919344340404011898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Free throw stats@2x_0: -5278418008304469791
+      Free throw stats@2x_1: -5863373369933705616
+      Free throw stats@2x_10: 6204226010612337136
+      Free throw stats@2x_11: -9030019310229539981
+      Free throw stats@2x_12: -6253859635246879874
+      Free throw stats@2x_13: -4919344340404011898
+      Free throw stats@2x_2: 3991746645794280377
+      Free throw stats@2x_3: 6692672944499752688
+      Free throw stats@2x_4: 6046444450986696671
+      Free throw stats@2x_5: 5897989672378703927
+      Free throw stats@2x_6: 617492495899325321
+      Free throw stats@2x_7: 248632229745284843
+      Free throw stats@2x_8: -1114527754028248935
+      Free throw stats@2x_9: 8594420330520604532
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

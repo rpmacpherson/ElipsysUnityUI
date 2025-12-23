@@ -1,0 +1,4 @@
+repository "ElipsysUI@AlbinusAngers@cloud"
+  path "/"
+    br "/main"
+    co "/main"

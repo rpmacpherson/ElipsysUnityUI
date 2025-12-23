@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 62cba5c7c7f6b0c48a71dc940026cc8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 241115696395462725
+    second: Vision in Action@2x_0
+  - first:
+      213: 5995590237378860475
+    second: Vision in Action@2x_1
+  - first:
+      213: 8002283427297288472
+    second: Vision in Action@2x_2
+  - first:
+      213: -2906397815859431324
+    second: Vision in Action@2x_3
+  - first:
+      213: -7424662788774367027
+    second: Vision in Action@2x_4
+  - first:
+      213: -2496083082156075844
+    second: Vision in Action@2x_5
+  - first:
+      213: -5662219402135751906
+    second: Vision in Action@2x_6
+  - first:
+      213: 1273935991691015329
+    second: Vision in Action@2x_7
+  - first:
+      213: -1383139639636329027
+    second: Vision in Action@2x_8
+  - first:
+      213: 97281813130838849
+    second: Vision in Action@2x_9
+  - first:
+      213: -5431582836487037760
+    second: Vision in Action@2x_10
+  - first:
+      213: -1378845896637998281
+    second: Vision in Action@2x_11
+  - first:
+      213: -1861721657375405840
+    second: Vision in Action@2x_12
+  - first:
+      213: 1156645073856016985
+    second: Vision in Action@2x_13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vision in Action@2x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5482c69c27d985300800000000000000
+      internalID: 241115696395462725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vision in Action@2x_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 11
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb554cd0e8d943350800000000000000
+      internalID: 5995590237378860475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vision in Action@2x_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 10
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811ec041162dd0f60800000000000000
+      internalID: 8002283427297288472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vision in Action@2x_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 11
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4683ab1d5966aa7d0800000000000000
+      internalID: -2906397815859431324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vision in Action@2x_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 10
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0fa0af78c46f890800000000000000
+      internalID: -7424662788774367027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vision in Action@2x_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 11
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4993e59a12c5dd0800000000000000
+      internalID: -2496083082156075844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vision in Action@2x_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 11
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13bf571471cb61b0800000000000000
+      internalID: -5662219402135751906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vision in Action@2x_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 11
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4f35be80eeda110800000000000000
+      internalID: 1273935991691015329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vision in Action@2x_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 11
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdf6b073d91ecce0800000000000000
+      internalID: -1383139639636329027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vision in Action@2x_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 10
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14305ca2b4d995100800000000000000
+      internalID: 97281813130838849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vision in Action@2x_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 11
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccd41f10342f94b0800000000000000
+      internalID: -5431582836487037760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vision in Action@2x_11
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 11
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b13e266fa5ddce0800000000000000
+      internalID: -1378845896637998281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vision in Action@2x_12
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 10
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8cc753406d926e0800000000000000
+      internalID: -1861721657375405840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vision in Action@2x_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 11
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952b466019a3d0010800000000000000
+      internalID: 1156645073856016985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Vision in Action@2x_0: 241115696395462725
+      Vision in Action@2x_1: 5995590237378860475
+      Vision in Action@2x_10: -5431582836487037760
+      Vision in Action@2x_11: -1378845896637998281
+      Vision in Action@2x_12: -1861721657375405840
+      Vision in Action@2x_13: 1156645073856016985
+      Vision in Action@2x_2: 8002283427297288472
+      Vision in Action@2x_3: -2906397815859431324
+      Vision in Action@2x_4: -7424662788774367027
+      Vision in Action@2x_5: -2496083082156075844
+      Vision in Action@2x_6: -5662219402135751906
+      Vision in Action@2x_7: 1273935991691015329
+      Vision in Action@2x_8: -1383139639636329027
+      Vision in Action@2x_9: 97281813130838849
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: b7dcc25b97afa3842af475b25d88ff79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3240331866495049547
+    second: Connection Status@2x_0
+  - first:
+      213: -7704336799694409894
+    second: Connection Status@2x_1
+  - first:
+      213: -1669285139793936654
+    second: Connection Status@2x_2
+  - first:
+      213: -5148300399958936807
+    second: Connection Status@2x_3
+  - first:
+      213: -6023761008984786100
+    second: Connection Status@2x_4
+  - first:
+      213: -6038470671312505603
+    second: Connection Status@2x_5
+  - first:
+      213: 8110436751603596090
+    second: Connection Status@2x_6
+  - first:
+      213: 979551246965868062
+    second: Connection Status@2x_7
+  - first:
+      213: 7185151761472742617
+    second: Connection Status@2x_8
+  - first:
+      213: 5225277357103548549
+    second: Connection Status@2x_9
+  - first:
+      213: 8850802363069790951
+    second: Connection Status@2x_10
+  - first:
+      213: -113008261342716290
+    second: Connection Status@2x_11
+  - first:
+      213: -774572203369590801
+    second: Connection Status@2x_12
+  - first:
+      213: -7606998600426217179
+    second: Connection Status@2x_13
+  - first:
+      213: 9025304663780631726
+    second: Connection Status@2x_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Connection Status@2x_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fd0d02aa8f7fc20800000000000000
+      internalID: 3240331866495049547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Connection Status@2x_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 4
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fae300082b41590800000000000000
+      internalID: -7704336799694409894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Connection Status@2x_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 5
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe7eb5720285d8e0800000000000000
+      internalID: -1669285139793936654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Connection Status@2x_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 5
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913327720109d88b0800000000000000
+      internalID: -5148300399958936807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Connection Status@2x_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 5
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bfc9f074d476ca0800000000000000
+      internalID: -6023761008984786100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Connection Status@2x_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4bdc9eaea033ca0800000000000000
+      internalID: -6038470671312505603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Connection Status@2x_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 5
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bfa90314f0e8070800000000000000
+      internalID: 8110436751603596090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Connection Status@2x_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 4
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1601b25ba0189d00800000000000000
+      internalID: 979551246965868062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Connection Status@2x_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 5
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4eadf5579c6b360800000000000000
+      internalID: 7185151761472742617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Connection Status@2x_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 4
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5888c03521ae38840800000000000000
+      internalID: 5225277357103548549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Connection Status@2x_10
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 5
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea76fb0bdd54da70800000000000000
+      internalID: 8850802363069790951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Connection Status@2x_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 5
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e9bf5c5938e6ef0800000000000000
+      internalID: -113008261342716290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Connection Status@2x_12
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 5
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef83455faa2045f0800000000000000
+      internalID: -774572203369590801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Connection Status@2x_13
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 4
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521a3b693138e6690800000000000000
+      internalID: -7606998600426217179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Connection Status@2x_14
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 4
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4225a06c2504d70800000000000000
+      internalID: 9025304663780631726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Connection Status@2x_0: 3240331866495049547
+      Connection Status@2x_1: -7704336799694409894
+      Connection Status@2x_10: 8850802363069790951
+      Connection Status@2x_11: -113008261342716290
+      Connection Status@2x_12: -774572203369590801
+      Connection Status@2x_13: -7606998600426217179
+      Connection Status@2x_14: 9025304663780631726
+      Connection Status@2x_2: -1669285139793936654
+      Connection Status@2x_3: -5148300399958936807
+      Connection Status@2x_4: -6023761008984786100
+      Connection Status@2x_5: -6038470671312505603
+      Connection Status@2x_6: 8110436751603596090
+      Connection Status@2x_7: 979551246965868062
+      Connection Status@2x_8: 7185151761472742617
+      Connection Status@2x_9: 5225277357103548549
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

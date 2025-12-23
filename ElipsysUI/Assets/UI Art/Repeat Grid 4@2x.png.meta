@@ -1,0 +1,3712 @@
+fileFormatVersion: 2
+guid: 2a8579c9cc417de4b9f8c84f39afa582
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7840019854864073752
+    second: Repeat Grid 4@2x_0
+  - first:
+      213: -8021951903121753983
+    second: Repeat Grid 4@2x_1
+  - first:
+      213: -1770949474694232307
+    second: Repeat Grid 4@2x_2
+  - first:
+      213: -4494222318305611379
+    second: Repeat Grid 4@2x_3
+  - first:
+      213: -6068523594200620106
+    second: Repeat Grid 4@2x_4
+  - first:
+      213: 7060564979753362267
+    second: Repeat Grid 4@2x_5
+  - first:
+      213: -1179712200816794918
+    second: Repeat Grid 4@2x_6
+  - first:
+      213: -1933254508241152155
+    second: Repeat Grid 4@2x_7
+  - first:
+      213: -5517273582900708038
+    second: Repeat Grid 4@2x_8
+  - first:
+      213: 4623617417564408098
+    second: Repeat Grid 4@2x_9
+  - first:
+      213: 6358550346007422380
+    second: Repeat Grid 4@2x_10
+  - first:
+      213: 4640906193132849670
+    second: Repeat Grid 4@2x_11
+  - first:
+      213: 582344176042594820
+    second: Repeat Grid 4@2x_12
+  - first:
+      213: 8989700149382499575
+    second: Repeat Grid 4@2x_13
+  - first:
+      213: 2284763463423504662
+    second: Repeat Grid 4@2x_14
+  - first:
+      213: 8254526008542153362
+    second: Repeat Grid 4@2x_15
+  - first:
+      213: 2077879124326410380
+    second: Repeat Grid 4@2x_16
+  - first:
+      213: -3894693358970827368
+    second: Repeat Grid 4@2x_17
+  - first:
+      213: 8844933638571978750
+    second: Repeat Grid 4@2x_18
+  - first:
+      213: -6900348393972821948
+    second: Repeat Grid 4@2x_19
+  - first:
+      213: 8714048281360767953
+    second: Repeat Grid 4@2x_20
+  - first:
+      213: 8420433935143444594
+    second: Repeat Grid 4@2x_21
+  - first:
+      213: -8932570282458574237
+    second: Repeat Grid 4@2x_22
+  - first:
+      213: 3082423840002407567
+    second: Repeat Grid 4@2x_23
+  - first:
+      213: 2234620706837320692
+    second: Repeat Grid 4@2x_24
+  - first:
+      213: 152381567586729294
+    second: Repeat Grid 4@2x_25
+  - first:
+      213: 7840192481900240403
+    second: Repeat Grid 4@2x_26
+  - first:
+      213: -5008345242983360512
+    second: Repeat Grid 4@2x_27
+  - first:
+      213: -4884697426159238576
+    second: Repeat Grid 4@2x_28
+  - first:
+      213: 8037028465619378386
+    second: Repeat Grid 4@2x_29
+  - first:
+      213: 8610255383169327207
+    second: Repeat Grid 4@2x_30
+  - first:
+      213: -3512958869361820370
+    second: Repeat Grid 4@2x_31
+  - first:
+      213: 4331945044280858767
+    second: Repeat Grid 4@2x_32
+  - first:
+      213: 8360031941149366104
+    second: Repeat Grid 4@2x_33
+  - first:
+      213: -1000901420110994229
+    second: Repeat Grid 4@2x_34
+  - first:
+      213: -2852944145334934975
+    second: Repeat Grid 4@2x_35
+  - first:
+      213: 4792123894210299151
+    second: Repeat Grid 4@2x_36
+  - first:
+      213: -3941277662012568739
+    second: Repeat Grid 4@2x_37
+  - first:
+      213: 6143371554254946937
+    second: Repeat Grid 4@2x_38
+  - first:
+      213: 9047646621289469754
+    second: Repeat Grid 4@2x_39
+  - first:
+      213: 7349401378781726858
+    second: Repeat Grid 4@2x_40
+  - first:
+      213: -3984695433676956595
+    second: Repeat Grid 4@2x_41
+  - first:
+      213: -6039253210020852531
+    second: Repeat Grid 4@2x_42
+  - first:
+      213: -281567738884634308
+    second: Repeat Grid 4@2x_43
+  - first:
+      213: -3763437745288215289
+    second: Repeat Grid 4@2x_44
+  - first:
+      213: 6522591208255401356
+    second: Repeat Grid 4@2x_45
+  - first:
+      213: 3274983011639412972
+    second: Repeat Grid 4@2x_46
+  - first:
+      213: 2290049740146337951
+    second: Repeat Grid 4@2x_47
+  - first:
+      213: -2336033641301307469
+    second: Repeat Grid 4@2x_48
+  - first:
+      213: -5336917220085655354
+    second: Repeat Grid 4@2x_49
+  - first:
+      213: -4308823016585673748
+    second: Repeat Grid 4@2x_50
+  - first:
+      213: -1700868456862115502
+    second: Repeat Grid 4@2x_51
+  - first:
+      213: -6545217538096334205
+    second: Repeat Grid 4@2x_52
+  - first:
+      213: -7865281465490027236
+    second: Repeat Grid 4@2x_53
+  - first:
+      213: -3964307214506953506
+    second: Repeat Grid 4@2x_54
+  - first:
+      213: 2986409036367574577
+    second: Repeat Grid 4@2x_55
+  - first:
+      213: 8185810488583585597
+    second: Repeat Grid 4@2x_56
+  - first:
+      213: -7850232878493288700
+    second: Repeat Grid 4@2x_57
+  - first:
+      213: -3360266228764638518
+    second: Repeat Grid 4@2x_58
+  - first:
+      213: -4672828191538799818
+    second: Repeat Grid 4@2x_59
+  - first:
+      213: 8615592625380784401
+    second: Repeat Grid 4@2x_60
+  - first:
+      213: -4826773545338956739
+    second: Repeat Grid 4@2x_61
+  - first:
+      213: -8043386449739333544
+    second: Repeat Grid 4@2x_62
+  - first:
+      213: 9036176579428573599
+    second: Repeat Grid 4@2x_63
+  - first:
+      213: 2498826430388288142
+    second: Repeat Grid 4@2x_64
+  - first:
+      213: 4743128961568344282
+    second: Repeat Grid 4@2x_65
+  - first:
+      213: 2620208668232951515
+    second: Repeat Grid 4@2x_66
+  - first:
+      213: 2145728293754177359
+    second: Repeat Grid 4@2x_67
+  - first:
+      213: 5868339178666864632
+    second: Repeat Grid 4@2x_68
+  - first:
+      213: -1376278011705033670
+    second: Repeat Grid 4@2x_69
+  - first:
+      213: -2781643493844778604
+    second: Repeat Grid 4@2x_70
+  - first:
+      213: 9209304329024002400
+    second: Repeat Grid 4@2x_71
+  - first:
+      213: 741767194578386155
+    second: Repeat Grid 4@2x_72
+  - first:
+      213: 3522639067182620876
+    second: Repeat Grid 4@2x_73
+  - first:
+      213: -7063386119212364152
+    second: Repeat Grid 4@2x_74
+  - first:
+      213: -6707935820747835284
+    second: Repeat Grid 4@2x_75
+  - first:
+      213: 1277881265406078149
+    second: Repeat Grid 4@2x_76
+  - first:
+      213: -3973867419923059665
+    second: Repeat Grid 4@2x_77
+  - first:
+      213: -3457342703986848070
+    second: Repeat Grid 4@2x_78
+  - first:
+      213: -2199001602385945544
+    second: Repeat Grid 4@2x_79
+  - first:
+      213: 5347760834750549351
+    second: Repeat Grid 4@2x_80
+  - first:
+      213: -6076220883848396979
+    second: Repeat Grid 4@2x_81
+  - first:
+      213: 1761071720598411602
+    second: Repeat Grid 4@2x_82
+  - first:
+      213: 54129501889764774
+    second: Repeat Grid 4@2x_83
+  - first:
+      213: 5837978472688033253
+    second: Repeat Grid 4@2x_84
+  - first:
+      213: 7310693362849073659
+    second: Repeat Grid 4@2x_85
+  - first:
+      213: -5761481013186299460
+    second: Repeat Grid 4@2x_86
+  - first:
+      213: -8766060009352509718
+    second: Repeat Grid 4@2x_87
+  - first:
+      213: 1751752374141922007
+    second: Repeat Grid 4@2x_88
+  - first:
+      213: 8046414729179871286
+    second: Repeat Grid 4@2x_89
+  - first:
+      213: -6351668949893659880
+    second: Repeat Grid 4@2x_90
+  - first:
+      213: 5080620017045259884
+    second: Repeat Grid 4@2x_91
+  - first:
+      213: 4019149603632492867
+    second: Repeat Grid 4@2x_92
+  - first:
+      213: 3835531349221511921
+    second: Repeat Grid 4@2x_93
+  - first:
+      213: -7939047745431463262
+    second: Repeat Grid 4@2x_94
+  - first:
+      213: -5544841248018853405
+    second: Repeat Grid 4@2x_95
+  - first:
+      213: 4979030696539892727
+    second: Repeat Grid 4@2x_96
+  - first:
+      213: -385458782103619828
+    second: Repeat Grid 4@2x_97
+  - first:
+      213: 7840531851685214207
+    second: Repeat Grid 4@2x_98
+  - first:
+      213: 6887529138653797029
+    second: Repeat Grid 4@2x_99
+  - first:
+      213: 4420445485527644632
+    second: Repeat Grid 4@2x_100
+  - first:
+      213: 8808306978660025123
+    second: Repeat Grid 4@2x_101
+  - first:
+      213: 1697107275836238332
+    second: Repeat Grid 4@2x_102
+  - first:
+      213: -5191734260844402007
+    second: Repeat Grid 4@2x_103
+  - first:
+      213: -8506008137439653383
+    second: Repeat Grid 4@2x_104
+  - first:
+      213: 2320401221924122090
+    second: Repeat Grid 4@2x_105
+  - first:
+      213: 5238176094983558927
+    second: Repeat Grid 4@2x_106
+  - first:
+      213: 10177805484920759
+    second: Repeat Grid 4@2x_107
+  - first:
+      213: -7395582887972326446
+    second: Repeat Grid 4@2x_108
+  - first:
+      213: -3174486096816006750
+    second: Repeat Grid 4@2x_109
+  - first:
+      213: 1067843165383522402
+    second: Repeat Grid 4@2x_110
+  - first:
+      213: -7746680574873322160
+    second: Repeat Grid 4@2x_111
+  - first:
+      213: -5787264658027478552
+    second: Repeat Grid 4@2x_112
+  - first:
+      213: -9160274137325562586
+    second: Repeat Grid 4@2x_113
+  - first:
+      213: -2786125099025432557
+    second: Repeat Grid 4@2x_114
+  - first:
+      213: 6254887633119315774
+    second: Repeat Grid 4@2x_115
+  - first:
+      213: 3690062872753791043
+    second: Repeat Grid 4@2x_116
+  - first:
+      213: 1010965883341075458
+    second: Repeat Grid 4@2x_117
+  - first:
+      213: -6355270480846095861
+    second: Repeat Grid 4@2x_118
+  - first:
+      213: -1478262418289156670
+    second: Repeat Grid 4@2x_119
+  - first:
+      213: 7186844357705686673
+    second: Repeat Grid 4@2x_120
+  - first:
+      213: -6916272062356854624
+    second: Repeat Grid 4@2x_121
+  - first:
+      213: -5864096953009369136
+    second: Repeat Grid 4@2x_122
+  - first:
+      213: -7714275636004470454
+    second: Repeat Grid 4@2x_123
+  - first:
+      213: 5926895539936180321
+    second: Repeat Grid 4@2x_124
+  - first:
+      213: -3777099912986699127
+    second: Repeat Grid 4@2x_125
+  - first:
+      213: 2711222482178934020
+    second: Repeat Grid 4@2x_126
+  - first:
+      213: 4124643754854642994
+    second: Repeat Grid 4@2x_127
+  - first:
+      213: 8200075327700491064
+    second: Repeat Grid 4@2x_128
+  - first:
+      213: -4023791808947386664
+    second: Repeat Grid 4@2x_129
+  - first:
+      213: 5043140165822986910
+    second: Repeat Grid 4@2x_130
+  - first:
+      213: 6184699233595478607
+    second: Repeat Grid 4@2x_131
+  - first:
+      213: 9145602277232645431
+    second: Repeat Grid 4@2x_132
+  - first:
+      213: 145838191994007309
+    second: Repeat Grid 4@2x_133
+  - first:
+      213: 1512066592470034411
+    second: Repeat Grid 4@2x_134
+  - first:
+      213: 2568285960439207855
+    second: Repeat Grid 4@2x_135
+  - first:
+      213: -8826664359478220011
+    second: Repeat Grid 4@2x_136
+  - first:
+      213: -8317881507359425880
+    second: Repeat Grid 4@2x_137
+  - first:
+      213: 2797692649587683342
+    second: Repeat Grid 4@2x_138
+  - first:
+      213: -5360346166612833681
+    second: Repeat Grid 4@2x_139
+  - first:
+      213: -2014729098780721463
+    second: Repeat Grid 4@2x_140
+  - first:
+      213: -4445632621799151410
+    second: Repeat Grid 4@2x_141
+  - first:
+      213: 2918673515141444325
+    second: Repeat Grid 4@2x_142
+  - first:
+      213: -580469405691078980
+    second: Repeat Grid 4@2x_143
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb31deea77a23390800000000000000
+      internalID: -7840019854864073752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188b8290f3d4ca090800000000000000
+      internalID: -8021951903121753983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d078fade5d25c67e0800000000000000
+      internalID: -1770949474694232307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_3
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81f2c7ec9051a1c0800000000000000
+      internalID: -4494222318305611379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3689881f548cba0800000000000000
+      internalID: -6068523594200620106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_5
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5323cbc07a2cf160800000000000000
+      internalID: 7060564979753362267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_6
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2ee15f002d0afe0800000000000000
+      internalID: -1179712200816794918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_7
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5671ddf7443bb25e0800000000000000
+      internalID: -1933254508241152155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_8
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d7e8a78e4be63b0800000000000000
+      internalID: -5517273582900708038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_9
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2294c375b836a2040800000000000000
+      internalID: 4623617417564408098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_10
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5a534c9db1e3850800000000000000
+      internalID: 6358550346007422380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_11
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a0895189fc76040800000000000000
+      internalID: 4640906193132849670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_12
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402590651f6e41800800000000000000
+      internalID: 582344176042594820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_13
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc483908a4d1cc70800000000000000
+      internalID: 8989700149382499575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_14
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6113629c34c15bf10800000000000000
+      internalID: 2284763463423504662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_15
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ac060aba7fd8270800000000000000
+      internalID: 8254526008542153362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_16
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88eca3fd0c16dc10800000000000000
+      internalID: 2077879124326410380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_17
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d8875660543f9c0800000000000000
+      internalID: -3894693358970827368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_18
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff6cf428448fba70800000000000000
+      internalID: 8844933638571978750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_19
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44010def1b90d30a0800000000000000
+      internalID: -6900348393972821948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_20
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db9c1e2eb48ee870800000000000000
+      internalID: 8714048281360767953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_21
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270aed6fc046bd470800000000000000
+      internalID: 8420433935143444594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_22
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36298d6a7a2290480800000000000000
+      internalID: -8932570282458574237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_23
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cf98ea628f6ca20800000000000000
+      internalID: 3082423840002407567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_24
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f355ce71b7f20f10800000000000000
+      internalID: 2234620706837320692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_25
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4df2567a3e5d1200800000000000000
+      internalID: 152381567586729294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_26
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e1a5ee585fdcc60800000000000000
+      internalID: 7840192481900240403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_27
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008957f6988ce7ab0800000000000000
+      internalID: -5008345242983360512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_28
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05283863291163cb0800000000000000
+      internalID: -4884697426159238576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_29
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d022f6bec2498f60800000000000000
+      internalID: 8037028465619378386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_30
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760e333e6a5cd7770800000000000000
+      internalID: 8610255383169327207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_31
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d712155867f3fc0800000000000000
+      internalID: -3512958869361820370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_32
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88dfdee0192e1c30800000000000000
+      internalID: 4331945044280858767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_33
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8579023d1ccc40470800000000000000
+      internalID: 8360031941149366104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_34
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 237
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4a91f16751c12f0800000000000000
+      internalID: -1000901420110994229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_35
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 237
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142e7455a6e4868d0800000000000000
+      internalID: -2852944145334934975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f050112ca4b018240800000000000000
+      internalID: 4792123894210299151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b0f8229d4cd49c0800000000000000
+      internalID: -3941277662012568739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_38
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9720b9e21e3a14550800000000000000
+      internalID: 6143371554254946937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_39
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37d8336aa2bf8d70800000000000000
+      internalID: 9047646621289469754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_40
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a880d0e7d915ef560800000000000000
+      internalID: 7349401378781726858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_41
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c50996d9483b8c0800000000000000
+      internalID: -3984695433676956595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_42
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccc11ce333403ca0800000000000000
+      internalID: -6039253210020852531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_43
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39429f12aba71cf0800000000000000
+      internalID: -281567738884634308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_44
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7058cc96f4595cbc0800000000000000
+      internalID: -3763437745288215289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_45
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d262f4526e48a50800000000000000
+      internalID: 6522591208255401356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_46
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8c43e82b3137d20800000000000000
+      internalID: 3274983011639412972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_47
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98e56ffa14e7cf10800000000000000
+      internalID: 2290049740146337951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_48
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf8fd2b7cdb49fd0800000000000000
+      internalID: -2336033641301307469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_49
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8112580167fe5b0800000000000000
+      internalID: -5336917220085655354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_50
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce34268ab4cf334c0800000000000000
+      internalID: -4308823016585673748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_51
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259111b662d4568e0800000000000000
+      internalID: -1700868456862115502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_52
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a7c10c357ba25a0800000000000000
+      internalID: -6545217538096334205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_53
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dc00fdd28e8d290800000000000000
+      internalID: -7865281465490027236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_54
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed47bca9793fbf8c0800000000000000
+      internalID: -3964307214506953506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_55
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136b4b6223bd17920800000000000000
+      internalID: 2986409036367574577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_56
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ff0b2e447d99170800000000000000
+      internalID: 8185810488583585597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_57
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407b0511ace5e0390800000000000000
+      internalID: -7850232878493288700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_58
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac20ebb1bafed51d0800000000000000
+      internalID: -3360266228764638518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_59
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b16ea7487c62fb0800000000000000
+      internalID: -4672828191538799818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_60
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119fb4d68dbb09770800000000000000
+      internalID: 8615592625380784401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_61
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3491daa80bd30db0800000000000000
+      internalID: -4826773545338956739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_62
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850c810c3a6206090800000000000000
+      internalID: -8043386449739333544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_63
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f916b8829b2f66d70800000000000000
+      internalID: 9036176579428573599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_64
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ab6aa266d9da220800000000000000
+      internalID: 2498826430388288142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_65
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8062e09aaf2d140800000000000000
+      internalID: 4743128961568344282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_66
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6ac6bb6e9dc5420800000000000000
+      internalID: 2620208668232951515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_67
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4709bdb38827cd10800000000000000
+      internalID: 2145728293754177359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_68
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff22f52467807150800000000000000
+      internalID: 5868339178666864632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_69
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cf320b07a76ece0800000000000000
+      internalID: -1376278011705033670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_70
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 161
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4910b99eafd9569d0800000000000000
+      internalID: -2781643493844778604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_71
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 161
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06951f78e750ecf70800000000000000
+      internalID: 9209304329024002400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becf1ea55594b4a00800000000000000
+      internalID: 741767194578386155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_73
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0655f519de2e030800000000000000
+      internalID: 3522639067182620876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_74
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e0cec7fbfc9fd90800000000000000
+      internalID: -7063386119212364152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_75
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68f43449ef98e2a0800000000000000
+      internalID: -6707935820747835284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_76
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cce7a98d32fbb110800000000000000
+      internalID: 1277881265406078149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_77
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cecf2d2acf9d8c0800000000000000
+      internalID: -3973867419923059665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_78
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe4316e02d0500d0800000000000000
+      internalID: -3457342703986848070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_79
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c554581b39b71e0800000000000000
+      internalID: -2199001602385945544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_80
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d8d034520173a40800000000000000
+      internalID: 5347760834750549351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_81
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ff761ac4decaba0800000000000000
+      internalID: -6076220883848396979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_82
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259114a3665907810800000000000000
+      internalID: 1761071720598411602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_83
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad1204ce7e40c000800000000000000
+      internalID: 54129501889764774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_84
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed92fe6d7aa40150800000000000000
+      internalID: 5837978472688033253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_85
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9cc6a31ecc47560800000000000000
+      internalID: 7310693362849073659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_86
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb97fdc4b8b1b00b0800000000000000
+      internalID: -5761481013186299460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_87
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae649c6bdd2b85680800000000000000
+      internalID: -8766060009352509718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_88
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da2d2bc0897f4810800000000000000
+      internalID: 1751752374141922007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_89
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638bc30809b9aaf60800000000000000
+      internalID: 8046414729179871286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_90
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813c5be1eb65ad7a0800000000000000
+      internalID: -6351668949893659880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_91
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66c8babcfcf18640800000000000000
+      internalID: 5080620017045259884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_92
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341baa72543e6c730800000000000000
+      internalID: 4019149603632492867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_93
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2193bc07b8a3530800000000000000
+      internalID: 3835531349221511921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_94
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa11be6326d2d190800000000000000
+      internalID: -7939047745431463262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_95
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e117e34344cc03b0800000000000000
+      internalID: -5544841248018853405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_96
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fba609d902191540800000000000000
+      internalID: 4979030696539892727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_97
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07b829a74396aaf0800000000000000
+      internalID: -385458782103619828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_98
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff735dd9d2a2fcc60800000000000000
+      internalID: 7840531851685214207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_99
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa9c99824b659f50800000000000000
+      internalID: 6887529138653797029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_100
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9bad1afb3985d30800000000000000
+      internalID: 4420445485527644632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_101
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32300a757846d3a70800000000000000
+      internalID: 8808306978660025123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_102
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf923f163165d8710800000000000000
+      internalID: 1697107275836238332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_103
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aae42e523143f7b0800000000000000
+      internalID: -5191734260844402007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_104
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1d35f6aa694f980800000000000000
+      internalID: -8506008137439653383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_105
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed6b290e98b33020800000000000000
+      internalID: 2320401221924122090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_106
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 85
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f071074c76db1b840800000000000000
+      internalID: 5238176094983558927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_107
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 85
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf858009a8242000800000000000000
+      internalID: 10177805484920759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3b37ffb8c9d5990800000000000000
+      internalID: -7395582887972326446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_109
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a99ddec6b5f1f3d0800000000000000
+      internalID: -3174486096816006750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_110
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268738483bdb1de00800000000000000
+      internalID: 1067843165383522402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_111
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05db1429f034e7490800000000000000
+      internalID: -7746680574873322160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_112
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1891da4718fafa0800000000000000
+      internalID: -5787264658027478552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_113
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625138f843b20e080800000000000000
+      internalID: -9160274137325562586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_114
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3100ac4ebf1b559d0800000000000000
+      internalID: -2786125099025432557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_115
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e378f0a9923ddc650800000000000000
+      internalID: 6254887633119315774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_116
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340e859c1acb53330800000000000000
+      internalID: 3690062872753791043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_117
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20475945d1ca70e00800000000000000
+      internalID: 1010965883341075458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_118
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a74a95b2b8dc7a0800000000000000
+      internalID: -6355270480846095861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_119
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd9019a9282c7be0800000000000000
+      internalID: -1478262418289156670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_120
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e5115addcccb360800000000000000
+      internalID: 7186844357705686673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_121
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8e24904377400a0800000000000000
+      internalID: -6916272062356854624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_122
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df0d6bf3ea8e9ea0800000000000000
+      internalID: -5864096953009369136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_123
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41c0885e2361f490800000000000000
+      internalID: -7714275636004470454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_124
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1683ebe6710904250800000000000000
+      internalID: 5926895539936180321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_125
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ad44d14ab059bc0800000000000000
+      internalID: -3777099912986699127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_126
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405045d9b7230a520800000000000000
+      internalID: 2711222482178934020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_127
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235f42944adad3930800000000000000
+      internalID: 4124643754854642994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_128
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b580f80158cc170800000000000000
+      internalID: 8200075327700491064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_129
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d680913bae9828c0800000000000000
+      internalID: -4023791808947386664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_130
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a3268d245dcf540800000000000000
+      internalID: 5043140165822986910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_131
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42d61d5f2774d550800000000000000
+      internalID: 6184699233595478607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_132
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735947fc0d4bbee70800000000000000
+      internalID: 9145602277232645431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_133
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fec7c101f160200800000000000000
+      internalID: 145838191994007309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_134
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be769e8fd80fbf410800000000000000
+      internalID: 1512066592470034411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_135
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa71a91497264a320800000000000000
+      internalID: 2568285960439207855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_136
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b23bdd783618580800000000000000
+      internalID: -8826664359478220011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_137
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aafc0ec6d2f09c80800000000000000
+      internalID: -8317881507359425880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_138
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00356954a663d620800000000000000
+      internalID: 2797692649587683342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_139
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a4ae1df893c95b0800000000000000
+      internalID: -5360346166612833681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_140
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce38842f8e3a04e0800000000000000
+      internalID: -2014729098780721463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_141
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8e5c73fa0fd42c0800000000000000
+      internalID: -4445632621799151410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_142
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2b8552916318820800000000000000
+      internalID: 2918673515141444325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repeat Grid 4@2x_143
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 9
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb61dc6a622c1f7f0800000000000000
+      internalID: -580469405691078980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Repeat Grid 4@2x_0: -7840019854864073752
+      Repeat Grid 4@2x_1: -8021951903121753983
+      Repeat Grid 4@2x_10: 6358550346007422380
+      Repeat Grid 4@2x_100: 4420445485527644632
+      Repeat Grid 4@2x_101: 8808306978660025123
+      Repeat Grid 4@2x_102: 1697107275836238332
+      Repeat Grid 4@2x_103: -5191734260844402007
+      Repeat Grid 4@2x_104: -8506008137439653383
+      Repeat Grid 4@2x_105: 2320401221924122090
+      Repeat Grid 4@2x_106: 5238176094983558927
+      Repeat Grid 4@2x_107: 10177805484920759
+      Repeat Grid 4@2x_108: -7395582887972326446
+      Repeat Grid 4@2x_109: -3174486096816006750
+      Repeat Grid 4@2x_11: 4640906193132849670
+      Repeat Grid 4@2x_110: 1067843165383522402
+      Repeat Grid 4@2x_111: -7746680574873322160
+      Repeat Grid 4@2x_112: -5787264658027478552
+      Repeat Grid 4@2x_113: -9160274137325562586
+      Repeat Grid 4@2x_114: -2786125099025432557
+      Repeat Grid 4@2x_115: 6254887633119315774
+      Repeat Grid 4@2x_116: 3690062872753791043
+      Repeat Grid 4@2x_117: 1010965883341075458
+      Repeat Grid 4@2x_118: -6355270480846095861
+      Repeat Grid 4@2x_119: -1478262418289156670
+      Repeat Grid 4@2x_12: 582344176042594820
+      Repeat Grid 4@2x_120: 7186844357705686673
+      Repeat Grid 4@2x_121: -6916272062356854624
+      Repeat Grid 4@2x_122: -5864096953009369136
+      Repeat Grid 4@2x_123: -7714275636004470454
+      Repeat Grid 4@2x_124: 5926895539936180321
+      Repeat Grid 4@2x_125: -3777099912986699127
+      Repeat Grid 4@2x_126: 2711222482178934020
+      Repeat Grid 4@2x_127: 4124643754854642994
+      Repeat Grid 4@2x_128: 8200075327700491064
+      Repeat Grid 4@2x_129: -4023791808947386664
+      Repeat Grid 4@2x_13: 8989700149382499575
+      Repeat Grid 4@2x_130: 5043140165822986910
+      Repeat Grid 4@2x_131: 6184699233595478607
+      Repeat Grid 4@2x_132: 9145602277232645431
+      Repeat Grid 4@2x_133: 145838191994007309
+      Repeat Grid 4@2x_134: 1512066592470034411
+      Repeat Grid 4@2x_135: 2568285960439207855
+      Repeat Grid 4@2x_136: -8826664359478220011
+      Repeat Grid 4@2x_137: -8317881507359425880
+      Repeat Grid 4@2x_138: 2797692649587683342
+      Repeat Grid 4@2x_139: -5360346166612833681
+      Repeat Grid 4@2x_14: 2284763463423504662
+      Repeat Grid 4@2x_140: -2014729098780721463
+      Repeat Grid 4@2x_141: -4445632621799151410
+      Repeat Grid 4@2x_142: 2918673515141444325
+      Repeat Grid 4@2x_143: -580469405691078980
+      Repeat Grid 4@2x_15: 8254526008542153362
+      Repeat Grid 4@2x_16: 2077879124326410380
+      Repeat Grid 4@2x_17: -3894693358970827368
+      Repeat Grid 4@2x_18: 8844933638571978750
+      Repeat Grid 4@2x_19: -6900348393972821948
+      Repeat Grid 4@2x_2: -1770949474694232307
+      Repeat Grid 4@2x_20: 8714048281360767953
+      Repeat Grid 4@2x_21: 8420433935143444594
+      Repeat Grid 4@2x_22: -8932570282458574237
+      Repeat Grid 4@2x_23: 3082423840002407567
+      Repeat Grid 4@2x_24: 2234620706837320692
+      Repeat Grid 4@2x_25: 152381567586729294
+      Repeat Grid 4@2x_26: 7840192481900240403
+      Repeat Grid 4@2x_27: -5008345242983360512
+      Repeat Grid 4@2x_28: -4884697426159238576
+      Repeat Grid 4@2x_29: 8037028465619378386
+      Repeat Grid 4@2x_3: -4494222318305611379
+      Repeat Grid 4@2x_30: 8610255383169327207
+      Repeat Grid 4@2x_31: -3512958869361820370
+      Repeat Grid 4@2x_32: 4331945044280858767
+      Repeat Grid 4@2x_33: 8360031941149366104
+      Repeat Grid 4@2x_34: -1000901420110994229
+      Repeat Grid 4@2x_35: -2852944145334934975
+      Repeat Grid 4@2x_36: 4792123894210299151
+      Repeat Grid 4@2x_37: -3941277662012568739
+      Repeat Grid 4@2x_38: 6143371554254946937
+      Repeat Grid 4@2x_39: 9047646621289469754
+      Repeat Grid 4@2x_4: -6068523594200620106
+      Repeat Grid 4@2x_40: 7349401378781726858
+      Repeat Grid 4@2x_41: -3984695433676956595
+      Repeat Grid 4@2x_42: -6039253210020852531
+      Repeat Grid 4@2x_43: -281567738884634308
+      Repeat Grid 4@2x_44: -3763437745288215289
+      Repeat Grid 4@2x_45: 6522591208255401356
+      Repeat Grid 4@2x_46: 3274983011639412972
+      Repeat Grid 4@2x_47: 2290049740146337951
+      Repeat Grid 4@2x_48: -2336033641301307469
+      Repeat Grid 4@2x_49: -5336917220085655354
+      Repeat Grid 4@2x_5: 7060564979753362267
+      Repeat Grid 4@2x_50: -4308823016585673748
+      Repeat Grid 4@2x_51: -1700868456862115502
+      Repeat Grid 4@2x_52: -6545217538096334205
+      Repeat Grid 4@2x_53: -7865281465490027236
+      Repeat Grid 4@2x_54: -3964307214506953506
+      Repeat Grid 4@2x_55: 2986409036367574577
+      Repeat Grid 4@2x_56: 8185810488583585597
+      Repeat Grid 4@2x_57: -7850232878493288700
+      Repeat Grid 4@2x_58: -3360266228764638518
+      Repeat Grid 4@2x_59: -4672828191538799818
+      Repeat Grid 4@2x_6: -1179712200816794918
+      Repeat Grid 4@2x_60: 8615592625380784401
+      Repeat Grid 4@2x_61: -4826773545338956739
+      Repeat Grid 4@2x_62: -8043386449739333544
+      Repeat Grid 4@2x_63: 9036176579428573599
+      Repeat Grid 4@2x_64: 2498826430388288142
+      Repeat Grid 4@2x_65: 4743128961568344282
+      Repeat Grid 4@2x_66: 2620208668232951515
+      Repeat Grid 4@2x_67: 2145728293754177359
+      Repeat Grid 4@2x_68: 5868339178666864632
+      Repeat Grid 4@2x_69: -1376278011705033670
+      Repeat Grid 4@2x_7: -1933254508241152155
+      Repeat Grid 4@2x_70: -2781643493844778604
+      Repeat Grid 4@2x_71: 9209304329024002400
+      Repeat Grid 4@2x_72: 741767194578386155
+      Repeat Grid 4@2x_73: 3522639067182620876
+      Repeat Grid 4@2x_74: -7063386119212364152
+      Repeat Grid 4@2x_75: -6707935820747835284
+      Repeat Grid 4@2x_76: 1277881265406078149
+      Repeat Grid 4@2x_77: -3973867419923059665
+      Repeat Grid 4@2x_78: -3457342703986848070
+      Repeat Grid 4@2x_79: -2199001602385945544
+      Repeat Grid 4@2x_8: -5517273582900708038
+      Repeat Grid 4@2x_80: 5347760834750549351
+      Repeat Grid 4@2x_81: -6076220883848396979
+      Repeat Grid 4@2x_82: 1761071720598411602
+      Repeat Grid 4@2x_83: 54129501889764774
+      Repeat Grid 4@2x_84: 5837978472688033253
+      Repeat Grid 4@2x_85: 7310693362849073659
+      Repeat Grid 4@2x_86: -5761481013186299460
+      Repeat Grid 4@2x_87: -8766060009352509718
+      Repeat Grid 4@2x_88: 1751752374141922007
+      Repeat Grid 4@2x_89: 8046414729179871286
+      Repeat Grid 4@2x_9: 4623617417564408098
+      Repeat Grid 4@2x_90: -6351668949893659880
+      Repeat Grid 4@2x_91: 5080620017045259884
+      Repeat Grid 4@2x_92: 4019149603632492867
+      Repeat Grid 4@2x_93: 3835531349221511921
+      Repeat Grid 4@2x_94: -7939047745431463262
+      Repeat Grid 4@2x_95: -5544841248018853405
+      Repeat Grid 4@2x_96: 4979030696539892727
+      Repeat Grid 4@2x_97: -385458782103619828
+      Repeat Grid 4@2x_98: 7840531851685214207
+      Repeat Grid 4@2x_99: 6887529138653797029
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
